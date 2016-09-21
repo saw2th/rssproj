@@ -17,15 +17,18 @@ python manage.py migrate
 
 ```
 python manage.py get_feed
+python manage.py runserver
 http://localhost:8000/
 ```
 
 #### To see flagging
 ```
+python manage.py createsuperuser
+
 http://localhost:8000/admin
 login
-u:stephen
-p:lastword
+u:<username>
+p:<password>
 return to:
 http://localhost:8000/
 ```
