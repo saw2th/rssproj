@@ -1,0 +1,29 @@
+{% extends "rssfeed/base.html" %}
+{% load util_tags %}
+{% block main_container %}
+
+  <h1>Rss Feed Display</h1>
+  <form method="post" action="{% url 'search_items' %}" class="navbar-form pull-right"  >
+    <input type="text" id="searchBox" class="input-medium search-query" name="q" placeholder="Search">
+     {% csrf_token %}
+    <input type="submit" class="btn" value="Search" >
+</form>
+  {% if search %}
+  {% if query %}
+  <p>You searched for: {{ query }}</p>
+  {% endif %}
+  {% if rss_items_count < 1 %}
+  <p>No results found</a></p>
+  {% endif %}
+  <p><a href='{% url 'index' %}'>All results</a></p>
+  {% endif %}
+  <ul>
+    {% for item in rss_items %}
+    <li>
+      {% if user_logged_in %}
+      <button class="flag btn-default" data-csrf="{{ csrf_token }}" data-itemid="{{ item.id }}">{{ item|flagged:user }}</button> - {% endif %}<a href="{% url "item" item.id %}">{{ item.title }}</a>
+      <p>{{ item.summary|safe }}</p>
+    </li>
+    {% endfor %}
+  </ul>
+{% endblock %}

@@ -1,6 +1,7 @@
 from django.test import TestCase
 from django.core.management import call_command
 from django.conf import settings
+from django.contrib.auth.models import User
 
 from unipath import Path
 
@@ -52,6 +53,24 @@ class RssItemDisplayTest(TestCase):
             'An rss item title',
             status_code=200
         )
+        self.assertNotContains(
+            response,
+            'button',
+            status_code=200
+        )
+
+
+    def test_show_rss_item_list_user_logged_in(self):
+        logged_in = self.client.login(
+            username='stephen',
+            password='lastword'
+        )
+        response = self.client.get('/')
+        self.assertContains(
+            response,
+            'button',
+            status_code=200
+        )
 
     def test_show_rss_item_item(self):
         response = self.client.get('/rssitem/2/')
@@ -92,6 +111,12 @@ class RssItemDisplayTest(TestCase):
         self.failUnlessEqual(
             rss_item_flags.count(),
             1
+        )
+        self.failUnlessEqual(
+            RssItem.objects.get(id=1).item_flagged(
+                User.objects.get(username='stephen')
+            ),
+            True
         )
 
     def test_flag_item_get_request(self):

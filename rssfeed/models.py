@@ -3,6 +3,7 @@ from django.contrib.auth.models import User
 
 from django.db import models
 
+
 class RssItem(models.Model):
     """Holds an individual item in an rss feed"""
     title = models.TextField(blank=True, null=True, help_text="Title of rss item")
@@ -12,6 +13,11 @@ class RssItem(models.Model):
 
     def __unicode__(self):
         return self.title
+
+    def item_flagged(self, user):
+        """Is the item flagged for this user
+        """
+        return RssItemFlag.objects.filter(user=user, item=self).count() > 0
 
 
 class RssItemFlag(models.Model):
