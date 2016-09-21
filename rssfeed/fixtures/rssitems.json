@@ -1,0 +1,1 @@
+[{"model": "rssfeed.rssitem", "pk": 1, "fields": {"title": "An rss item title", "summary": "An rss item summary", "link": "http://slashdot.org/1/", "updated": "2016-09-21T16:28:02Z"}}, {"model": "rssfeed.rssitem", "pk": 2, "fields": {"title": "Another rss item", "summary": "Another rss item summary", "link": "http://slashdot.org/2/", "updated": "2016-09-21T16:28:14Z"}}]

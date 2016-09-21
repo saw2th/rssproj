@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss1full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://rss.slashdot.org/~d/styles/itemcontent.css"?><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/">
+
+<channel rdf:about="https://slashdot.org/">
+<title>Slashdot</title>
+<link>https://slashdot.org/</link>
+<description>News for nerds, stuff that matters</description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
+<dc:date>2016-09-21T15:04:11+00:00</dc:date>
+<dc:publisher>Dice</dc:publisher>
+<dc:creator>help@slashdot.org</dc:creator>
+<dc:subject>Technology</dc:subject>
+<syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/16/09/21/1450244/google-backs-off-on-previously-announced-allo-privacy-feature?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://entertainment.slashdot.org/story/16/09/21/147235/netflix-wants-50-of-its-library-to-be-original-content?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://it.slashdot.org/story/16/09/21/0432242/tesla-fixes-security-bugs-after-claims-of-model-s-hack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/16/09/20/222232/quantum-teleportation-achieved-over-7km-of-cable?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/16/09/21/0656214/google-allo-messaging-app-launches-for-ios-and-android?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/16/09/21/0031201/wildfire-at-vandenberg-air-force-base-threatens-ula-spacex-launches?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/16/09/20/2316253/activity-trackers-may-undermine-weight-loss-efforts-says-study?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/16/09/20/2224227/mit-scientists-use-radio-waves-to-sense-human-emotions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://apple.slashdot.org/story/16/09/20/2253200/apple-patents-a-paper-bag?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/16/09/20/2146210/college-student-got-15-million-miles-by-hacking-united-airlines?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/16/09/20/2111240/microsoft-will-solve-cancer-within-the-next-10-years-by-treating-it-like-a-computer-virus-says-company?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/16/09/20/2048217/a-shocking-amount-of-e-waste-recycling-is-a-complete-sham?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://apple.slashdot.org/story/16/09/20/2045252/macos-sierra-is-now-available-for-download?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/16/09/20/2018245/microsoft-unveils-37-nokia-216-feature-phone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/16/09/20/1940224/north-korea-has-just-28-websites?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+ </rdf:Seq>
+</items>
+<image rdf:resource="http://a.fsdn.com/sd/topics/topicslashdot.gif" />
+<textinput rdf:resource="https://slashdot.org/search.pl" />
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://rss.slashdot.org/slashdot/slashdotMain" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="slashdot/slashdotmain" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /></channel>
+<image rdf:about="http://a.fsdn.com/sd/topics/topicslashdot.gif">
+<title>Slashdot</title>
+<url>http://a.fsdn.com/sd/topics/topicslashdot.gif</url>
+<link>https://slashdot.org/</link>
+</image>
+<item rdf:about="https://tech.slashdot.org/story/16/09/21/1450244/google-backs-off-on-previously-announced-allo-privacy-feature?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Google Backs Off On Previously Announced Allo Privacy Feature</title>
+<link>https://tech.slashdot.org/story/16/09/21/1450244/google-backs-off-on-previously-announced-allo-privacy-feature?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>When Google first unveiled its Allo messaging app, the company said it would not keep a log of chats you have with people when in incognito mode. The company released Allo for iOS and Android users last night, and it seems it is reneging on some of those promises. The Verge reports:The version of Allo rolling out today will store all non-incognito messages by default -- a clear change from Google's earlier statements that the app would only store messages transiently and in non-identifiable form. The records will now persist until the user actively deletes them, giving Google default access to a full history of conversations in the app. Users can also avoid the logging by using Alo's Incognito Mode, which is still fully end-to-end encrypted and unchanged from the initial announcement. Like Hangouts and Gmail, Allo messages will still be encrypted between the device and Google servers, and stored on servers using encryption that leaves the messages accessible to Google's algorithms. According to Google, the change was made to improve the Allo assistant's smart reply feature, which generates suggested responses to a given conversation. Like most machine learning systems, the smart replies work better with more data. As the Allo team tested those replies, they decided the performance boost from permanently stored messages was worth giving up privacy benefits of transient storage.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Google+Backs+Off+On+Previously+Announced+Allo+Privacy+Feature%3A+http%3A%2F%2Fbit.ly%2F2d1PFRi"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F16%2F09%2F21%2F1450244%2Fgoogle-backs-off-on-previously-announced-allo-privacy-feature%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/16/09/21/1450244/google-backs-off-on-previously-announced-allo-privacy-feature?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/16/09/21/1450244/google-backs-off-on-previously-announced-allo-privacy-feature?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=9683429&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>manishs</dc:creator>
+<dc:date>2016-09-21T14:51:00+00:00</dc:date>
+<dc:subject>google</dc:subject>
+<slash:department>backtracking</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>6</slash:comments>
+<slash:hit_parade>6,6,4,4,1,0,0</slash:hit_parade>
+</item>
+<item rdf:about="https://entertainment.slashdot.org/story/16/09/21/147235/netflix-wants-50-of-its-library-to-be-original-content?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Netflix Wants 50% Of Its Library To Be Original Content</title>
+<link>https://entertainment.slashdot.org/story/16/09/21/147235/netflix-wants-50-of-its-library-to-be-original-content?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>An anonymous reader writes: Netflix is looking to shift its content mix even further towards original TV and movies, with a goal of achieving a 50 percent mix between its own programming and stuff licensed for its use by outside studios. The 50-50 target was revealed by Netflix CFO David Wells at the Goldman Sach's Communacopia conference on Tuesday, and Wells added that they'd like to hit that mix sometime over the course of the next few years. As for its progress so far, Wells said Netflix is already about "one-third to halfway" to that ratio, having launched 2015 hours of original programming in 2015, and with the intend of achieving a further 600 hours by the end of 2016. The benefit for Netflix with a shift to self-generated content is that the licensing situation is much simpler, and the investment made represents a cost that continues to deliver value long after the initial spend. Licensing arrangements with outside TV and film distributors have a fixed term, and thus represent a recurring cost if you want to continue offering their content in your library.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Netflix+Wants+50%25+Of+Its+Library+To+Be+Original+Content%3A+http%3A%2F%2Fbit.ly%2F2cZqhx3"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fentertainment.slashdot.org%2Fstory%2F16%2F09%2F21%2F147235%2Fnetflix-wants-50-of-its-library-to-be-original-content%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://entertainment.slashdot.org/story/16/09/21/147235/netflix-wants-50-of-its-library-to-be-original-content?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://entertainment.slashdot.org/story/16/09/21/147235/netflix-wants-50-of-its-library-to-be-original-content?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=9683313&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>manishs</dc:creator>
+<dc:date>2016-09-21T14:10:00+00:00</dc:date>
+<dc:subject>tv</dc:subject>
+<slash:department>make-your-own-stuff</slash:department>
+<slash:section>entertainment</slash:section>
+<slash:comments>38</slash:comments>
+<slash:hit_parade>38,38,25,21,7,3,0</slash:hit_parade>
+</item>
+<item rdf:about="https://it.slashdot.org/story/16/09/21/0432242/tesla-fixes-security-bugs-after-claims-of-model-s-hack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Tesla Fixes Security Bugs After Claims of Model S Hack</title>
+<link>https://it.slashdot.org/story/16/09/21/0432242/tesla-fixes-security-bugs-after-claims-of-model-s-hack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>An anonymous reader quotes a report from Reuters: Tesla Motors Inc has rolled out a security patch for its electric cars after Chinese security researchers uncovered vulnerabilities they said allowed them to remotely attack a Tesla Model S sedan. The automaker said that it had patched the bugs in a statement to Reuters on Tuesday, a day after cybersecurity researchers with China'a Tencent Holdings Ltd disclosed their findings on their blog. Tesla said it was able to remedy the bugs uncovered by Tencent using an over-the-air fix to its vehicles, which saved customers the trouble of visiting dealers to obtain the update. Tencent's Keen Security Lab said on its blog that its researchers were able to remotely control some systems on the Tesla S in both driving and parking modes by exploiting the security bugs that were fixed by the automaker. The blog said that Tencent believed its researchers were the first to gain remote control of a Tesla vehicle by hacking into an onboard computer system known as a CAN bus. In a demonstration video, Tencent researchers remotely engaged the brake on a moving Tesla Model S, turned on its windshield wipers and opened the trunk. Tesla said it pushed out an over-the-air update to automatically update software on its vehicles within 10 days of learning about the bugs. It said the attack could only be triggered when a Tesla web browser was in use and the vehicle was close enough to a malicious Wi-Fi hotspot to connect to it.
+
+Slashdot reader weedjams adds some commentary: Does no one else think cars + computers + network connectivity = bad?&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Tesla+Fixes+Security+Bugs+After+Claims+of+Model+S+Hack%3A+http%3A%2F%2Fbit.ly%2F2dgBxTm"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F16%2F09%2F21%2F0432242%2Ftesla-fixes-security-bugs-after-claims-of-model-s-hack%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://it.slashdot.org/story/16/09/21/0432242/tesla-fixes-security-bugs-after-claims-of-model-s-hack?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://it.slashdot.org/story/16/09/21/0432242/tesla-fixes-security-bugs-after-claims-of-model-s-hack?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=9679717&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2016-09-21T13:00:00+00:00</dc:date>
+<dc:subject>security</dc:subject>
+<slash:department>remote-control</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>38</slash:comments>
+<slash:hit_parade>38,37,26,24,4,3,1</slash:hit_parade>
+</item>
+<item rdf:about="https://science.slashdot.org/story/16/09/20/222232/quantum-teleportation-achieved-over-7km-of-cable?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Quantum Teleportation Achieved Over 7km of Cable</title>
+<link>https://science.slashdot.org/story/16/09/20/222232/quantum-teleportation-achieved-over-7km-of-cable?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>An anonymous reader quotes a report from ScienceAlert: Quantum teleportation just moved out of the lab and into the real world, with two independent teams of scientists successfully sending quantum information across several kilometers of optical fiber networks in Calgary, Canada, and Hefei, China. Quantum teleportation relies on a strange phenomenon called quantum entanglement. Basically, quantum entanglement means that two particles are inextricably linked, so that measuring the state of one immediately affects the state of the other, no matter how far apart the two are -- which led Einstein to call entanglement "spooky action at a distance." In the latest experiments, both published in Nature Photonics (here and here), the teams had slightly different set-ups and results. But what they both had in common is the fact that they teleported their information across existing optical fiber networks -- which is important if we ever want to build useable quantum communication systems. To understand the experiments, Anil Ananthaswamy over at New Scientist nicely breaks it down like this: picture three people involved -- Alice, Bob, and Charlie. Alice and Bob want to share cryptographic keys, and to do that, they need Charlie's help. Alice sends a particle to Charlie, while Bob entangles two particles and sends just one of them to Charlie. Charlie then measures the two particles he's received from each of them, so that they can no longer be differentiated -- and that results in the quantum state of Alice's particle being transferred to Bob's entangled particle. So basically, the quantum state of Alice's particle eventually ends up in Bob's particle, via a way station in the form of Charlie. The Canadian experiment followed this same process, and was able to send quantum information over 6.2 km of Calgary's fiber optic network that's not regularly in use.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Quantum+Teleportation+Achieved+Over+7km+of+Cable%3A+http%3A%2F%2Fbit.ly%2F2d1kPrI"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F16%2F09%2F20%2F222232%2Fquantum-teleportation-achieved-over-7km-of-cable%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/16/09/20/222232/quantum-teleportation-achieved-over-7km-of-cable?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/16/09/20/222232/quantum-teleportation-achieved-over-7km-of-cable?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=9679041&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2016-09-21T10:00:00+00:00</dc:date>
+<dc:subject>communications</dc:subject>
+<slash:department>from-point-A-to-point-B</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>97</slash:comments>
+<slash:hit_parade>97,96,58,46,14,6,6</slash:hit_parade>
+</item>
+<item rdf:about="https://tech.slashdot.org/story/16/09/21/0656214/google-allo-messaging-app-launches-for-ios-and-android?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Google Allo Messaging App Launches For IOS and Android</title>
+<link>https://tech.slashdot.org/story/16/09/21/0656214/google-allo-messaging-app-launches-for-ios-and-android?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>An anonymous reader writes: Google has officially launched their long-awaited messaging app for iOS and Android, called Google Allo. There are several unique features associated with this app that Google hopes will win you over. Smart Reply lets you respond to messages with just a tap, so you can send a quick "yup" in response to a friend asking "Are you on your way?" It will also suggest responses for photos. For example, if you send a picture of a dog, Smart Reply might suggest a heart emoji or "Super cute!" message, which you can select and send with a tap. Google says Smart Reply will improve over time and adjust to your style. You can also send large or small text and emojis, as well as draw on pictures. There's an incognito mode that will activate end-to-end encryption, discreet notifications, and message expiration on your chats. Arguably best of all is the Google Assistant that can be added to your chats to automatically cater useful information to you depending on what is being conversed in the chat. For example, it can deliver news, weather, traffic, sports or your upcoming flight status to your chat. You can also ask your Assistant to "share that funny YouTube video or play games with friends right in your group chat." Google Allo is rolling out to Android and iOS starting today.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Google+Allo+Messaging+App+Launches+For+IOS+and+Android%3A+http%3A%2F%2Fbit.ly%2F2cnZ1su"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F16%2F09%2F21%2F0656214%2Fgoogle-allo-messaging-app-launches-for-ios-and-android%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/16/09/21/0656214/google-allo-messaging-app-launches-for-ios-and-android?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/16/09/21/0656214/google-allo-messaging-app-launches-for-ios-and-android?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=9680557&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2016-09-21T08:30:00+00:00</dc:date>
+<dc:subject>communications</dc:subject>
+<slash:department>sending-and-receiving</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>75</slash:comments>
+<slash:hit_parade>75,75,62,57,12,3,1</slash:hit_parade>
+</item>
+<item rdf:about="https://science.slashdot.org/story/16/09/21/0031201/wildfire-at-vandenberg-air-force-base-threatens-ula-spacex-launches?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Wildfire at Vandenberg Air Force Base Threatens ULA, SpaceX Launches</title>
+<link>https://science.slashdot.org/story/16/09/21/0031201/wildfire-at-vandenberg-air-force-base-threatens-ula-spacex-launches?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>Longtime Slashdot reader Bruce Perens writes: A fire at Vandenberg Air Force Base on the California coast -- currently over 10,000 acres in size -- has approached the pads used by SpaceX and United Launch Alliance. No structures have been damaged, but power lines have been destroyed. There is about 1000 feet of firebreak around each pad, but the presence of smoke and the absence of electrical power is potentially a problem for rockets, payloads, and ground-support equipment. The WorldView 4 satellite, a Delta 4 rocket, and a SpaceX Falcon 9 rocket with at least 7 (potentially 11) Iridium satellites are known to be on site. Ground support equipment at the base constitutes the United States' only access to polar orbit for large rockets without overflying populated areas. Liquid oxygen stored on the site may already have been released as a precaution or boiled off, and there are large supplies of rocket fuel, but these have so far not been a hazard. The Soberanes fire near Big Sur, located 180 miles farther South on the California coast, has gone on for two months, burning 185 square miles and costing over $200 million dollars to fight with no end in sight. Obviously, it's dry out there. The fire forced officials to cancel the Atlas V rocket launch on Sunday, and the next attempt won't occur for a week.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Wildfire+at+Vandenberg+Air+Force+Base+Threatens+ULA%2C+SpaceX+Launches%3A+http%3A%2F%2Fbit.ly%2F2cYr6WQ"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F16%2F09%2F21%2F0031201%2Fwildfire-at-vandenberg-air-force-base-threatens-ula-spacex-launches%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/16/09/21/0031201/wildfire-at-vandenberg-air-force-base-threatens-ula-spacex-launches?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/16/09/21/0031201/wildfire-at-vandenberg-air-force-base-threatens-ula-spacex-launches?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=9679255&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2016-09-21T07:00:00+00:00</dc:date>
+<dc:subject>space</dc:subject>
+<slash:department>adverse-weather-conditions</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>30</slash:comments>
+<slash:hit_parade>30,28,16,14,3,2,0</slash:hit_parade>
+</item>
+<item rdf:about="https://science.slashdot.org/story/16/09/20/2316253/activity-trackers-may-undermine-weight-loss-efforts-says-study?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Activity Trackers May Undermine Weight Loss Efforts, Says Study</title>
+<link>https://science.slashdot.org/story/16/09/20/2316253/activity-trackers-may-undermine-weight-loss-efforts-says-study?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>schwit1 quotes a report from New York Times: Wearable activity monitors can count your steps and track your movements, but they don't, apparently, help you lose weight. In fact, you might lose more weight without them. The fascinating finding comes from a study published today in JAMA that found dieting adults who wore activity monitors for 18 months lost significantly fewer pounds over that time than those who did not. The results suggest that activity monitors may not change our behavior in the way we expected (warning: may be paywalled), and raise interesting questions about the tangled relationships between exercise, eating, our willpower and our waistlines. Specifically, the study found that participants who used wearable devices reported an average weight loss of 7.7 pounds, compared to the 13 pounds lost by those who didn't use the devices and only used health counseling. "While usage of wearable devices is currently a popular method to track physical activity -- steps taken per day or calories burned during a workout -- our findings show that adding them to behavioral counseling or weight loss that includes physical activity and reduced calorie intake does not improve weight loss or physical activity engagement. Therefore, within this context, these devices should not be relied upon as tools for weight management in place of effective behavioral counseling for physical activity and diet," said John Jakicic, the study's lead researcher and chair of Pitt's Department of Health and Physical Activity.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Activity+Trackers+May+Undermine+Weight+Loss+Efforts%2C+Says+Study%3A+http%3A%2F%2Fbit.ly%2F2cY6luA"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F16%2F09%2F20%2F2316253%2Factivity-trackers-may-undermine-weight-loss-efforts-says-study%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/16/09/20/2316253/activity-trackers-may-undermine-weight-loss-efforts-says-study?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/16/09/20/2316253/activity-trackers-may-undermine-weight-loss-efforts-says-study?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=9679169&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2016-09-21T03:30:00+00:00</dc:date>
+<dc:subject>medicine</dc:subject>
+<slash:department>contrary-to-popular-belief</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>133</slash:comments>
+<slash:hit_parade>133,130,94,77,15,8,4</slash:hit_parade>
+</item>
+<item rdf:about="https://science.slashdot.org/story/16/09/20/2224227/mit-scientists-use-radio-waves-to-sense-human-emotions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>MIT Scientists Use Radio Waves To Sense Human Emotions</title>
+<link>https://science.slashdot.org/story/16/09/20/2224227/mit-scientists-use-radio-waves-to-sense-human-emotions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>An anonymous reader quotes a report from CNNMoney: Researchers at the MIT Computer Science and Artificial Intelligence Laboratory have developed a device that uses radio waves to detect whether someone is happy, sad, angry or excited. The breakthrough makes it easier to accomplish what scientists have tried to do for years with machines: sense human emotions. The researchers believe tracking a person's feelings is a step toward improving their overall emotional well-being. The technology isn't invasive; it works in the background without a person having to do anything, like wearing a device. The device called EQ-Radio, which was detailed in a paper published online Tuesday, resembles a shoebox, as of now. It works by bouncing wireless signals off a person. These signals are impacted by motion, such as breathing and heartbeats. When the heart pumps blood, a force is exerted onto our bodies, and the skin vibrates ever so slightly. After the radio waves are impacted by these vibrations, they return to the device. A computer then analyzes the signals to identify changes in heartbeat and breathing. The researchers demonstrated their system detects emotions on par with an electrocardiogram (EKG), a common wearable device medical professionals use to monitor the human heart. The machine's analysis of the radio waves relies on artificial intelligence, which learns how various heartbeats indicate certain emotions. As a part of the testing, the machine bounced radio waves off actors who recreated a range of emotions. The more emotions the machine experienced, the better it identified what signals, such as a fast heartbeat, gave away their true feelings. By monitoring radio waves reflected off people who are happy, the machine is exposed to certain signs -- such as heart rate or a type of breathing -- associated with being in good spirits.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=MIT+Scientists+Use+Radio+Waves+To+Sense+Human+Emotions%3A+http%3A%2F%2Fbit.ly%2F2cSB08H"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F16%2F09%2F20%2F2224227%2Fmit-scientists-use-radio-waves-to-sense-human-emotions%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/16/09/20/2224227/mit-scientists-use-radio-waves-to-sense-human-emotions?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/16/09/20/2224227/mit-scientists-use-radio-waves-to-sense-human-emotions?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=9679073&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2016-09-21T01:45:00+00:00</dc:date>
+<dc:subject>ai</dc:subject>
+<slash:department>consent-form-required</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>63</slash:comments>
+<slash:hit_parade>63,63,41,28,5,3,2</slash:hit_parade>
+</item>
+<item rdf:about="https://apple.slashdot.org/story/16/09/20/2253200/apple-patents-a-paper-bag?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Apple Patents a Paper Bag</title>
+<link>https://apple.slashdot.org/story/16/09/20/2253200/apple-patents-a-paper-bag?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>mspohr writes: Continuing its leadership in innovation, Apple has patented a paper bag. We all remember the groundbreaking "rounded corners" innovation, now we have a paper bag! Just try to make your own paper bag and you'll be speaking with Apple lawyers. (Note: In fairness to Apple, this is a "special" paper bag which is stronger due to numerous improvements on your ordinary recycled paper bag -- just don't try to copy it.) The patent application summarizes the bag as follows: "A paper bag is disclosed. The paper bag may include a bag container formed of white solid bleached sulfate paper with at least 60% post-consumer content." Apple's patented paper bags are designed to be sturdy, while remaining "both pearly white and environmentally friendly." Let's just hope they don't remove the handles...&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Apple+Patents+a+Paper+Bag%3A+http%3A%2F%2Fbit.ly%2F2cXPkQU"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F16%2F09%2F20%2F2253200%2Fapple-patents-a-paper-bag%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/16/09/20/2253200/apple-patents-a-paper-bag?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/16/09/20/2253200/apple-patents-a-paper-bag?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=9679139&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2016-09-21T01:15:00+00:00</dc:date>
+<dc:subject>patents</dc:subject>
+<slash:department>choking-hazard</slash:department>
+<slash:section>apple</slash:section>
+<slash:comments>139</slash:comments>
+<slash:hit_parade>139,136,84,64,14,4,2</slash:hit_parade>
+</item>
+<item rdf:about="https://news.slashdot.org/story/16/09/20/2146210/college-student-got-15-million-miles-by-hacking-united-airlines?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>College Student Got 15 Million Miles By Hacking United Airlines</title>
+<link>https://news.slashdot.org/story/16/09/20/2146210/college-student-got-15-million-miles-by-hacking-united-airlines?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>An anonymous reader quotes a report from Fortune: University of Georgia Tech student Ryan Pickren used to get in trouble for hacking websites -- in 2015, he hacked his college's master calendar and almost spent 15 years in prison. But now he's being rewarded for his skills. Pickren participated in United Airlines' Bug Bounty Program and earned 15 million United miles. At two cents a mile, that's about $300,000 worth. United's white hat hacking program invites computer experts to legally hack their systems, paying up to one million United miles to hackers who can reveal security flaws. At that rate, we can presume Pickren reported as many as 15 severe bugs. The only drawback to all those free miles? Taxes. Having earned $300,000 of taxable income from the Bug Bounty Program, Pickren could owe the Internal Revenue Service tens of thousands of dollars. He's not keeping all of the, though: Pickren donated five million miles to Georgia Tech. The ultimate thank-you for not pressing charges last year. In May, certified ethical hackers at Offensi.com identified a bug allowing remote code execution on one of United Airlines' sites and were rewarded with 1,000,000 Mileage Plus air miles. Instead of accepting the award themselves, they decided to distribute their air miles among three charities.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=College+Student+Got+15+Million+Miles+By+Hacking+United+Airlines%3A+http%3A%2F%2Fbit.ly%2F2cSsy9q"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F16%2F09%2F20%2F2146210%2Fcollege-student-got-15-million-miles-by-hacking-united-airlines%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/16/09/20/2146210/college-student-got-15-million-miles-by-hacking-united-airlines?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/16/09/20/2146210/college-student-got-15-million-miles-by-hacking-united-airlines?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=9679011&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2016-09-21T00:45:00+00:00</dc:date>
+<dc:subject>security</dc:subject>
+<slash:department>frequent-flyer</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>64</slash:comments>
+<slash:hit_parade>64,63,41,35,7,5,0</slash:hit_parade>
+</item>
+<item rdf:about="https://news.slashdot.org/story/16/09/20/2111240/microsoft-will-solve-cancer-within-the-next-10-years-by-treating-it-like-a-computer-virus-says-company?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Microsoft Will 'Solve' Cancer Within The Next 10 Years By Treating It Like A Computer Virus, Says Company</title>
+<link>https://news.slashdot.org/story/16/09/20/2111240/microsoft-will-solve-cancer-within-the-next-10-years-by-treating-it-like-a-computer-virus-says-company?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>Microsoft is serious about finding a cure for cancer. In June, Microsoft researchers published a paper that shows how analyzing online activities can provide clues as to a person's chances of having cancer. They were able to identify internet users who had pancreatic cancer even before they'd been diagnosed, all from analyzing web query logs. Several months later, researchers on behalf of the company now say they will "solve" cancer within the next 10 years by treating it like a computer virus that invades and corrupts the body's cells. The goal is to monitor the bad cells and potentially reprogram them to be healthy again. The Independent reports: The company has built a "biological computation" unit that says its ultimate aim is to make cells into living computers. As such, they could be programmed and reprogrammed to treat any diseases, such as cancer. In the nearer term, the unit is using advanced computing research to try and set computers to work learning about drugs and diseases and suggesting new treatments to help cancer patients. The team hopes to be able to use machine learning technologies -- computers that can think and learn like humans -- to read through the huge amounts of cancer research and come to understand the disease and the drugs that treat it. At the moment, so much cancer research is published that it is impossible for any doctor to read it all. But since computers can read and understand so much more quickly, the systems will be able to read through all of the research and then put that to work on specific people's situations. It does that by bringing together biology, math and computing. Microsoft says the solution could be with us within the next five or ten years.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Microsoft+Will+'Solve'+Cancer+Within+The+Next+10+Years+By+Treating+It+Like+A+Computer+Virus%2C+Says+Company%3A+http%3A%2F%2Fbit.ly%2F2df4XkD"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F16%2F09%2F20%2F2111240%2Fmicrosoft-will-solve-cancer-within-the-next-10-years-by-treating-it-like-a-computer-virus-says-company%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/16/09/20/2111240/microsoft-will-solve-cancer-within-the-next-10-years-by-treating-it-like-a-computer-virus-says-company?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/16/09/20/2111240/microsoft-will-solve-cancer-within-the-next-10-years-by-treating-it-like-a-computer-virus-says-company?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=9678961&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2016-09-21T00:05:00+00:00</dc:date>
+<dc:subject>medicine</dc:subject>
+<slash:department>ambitious-goals</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>211</slash:comments>
+<slash:hit_parade>211,210,138,108,25,13,6</slash:hit_parade>
+</item>
+<item rdf:about="https://hardware.slashdot.org/story/16/09/20/2048217/a-shocking-amount-of-e-waste-recycling-is-a-complete-sham?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>A Shocking Amount of E-Waste Recycling Is a Complete Sham</title>
+<link>https://hardware.slashdot.org/story/16/09/20/2048217/a-shocking-amount-of-e-waste-recycling-is-a-complete-sham?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>An anonymous reader quotes a report from Motherboard: Forty percent of all U.S. electronics recyclers testers included in [a study that used GPS trackers to follow e-waste over the course of two years] proved to be complete shams, with our e-waste getting shipped wholesale to landfills in Hong Kong, China, and developing nations in Africa and Asia. The most important thing to know about the e-waste recycling industry is that it is not free to recycle an old computer or an old CRT television. The value of the raw materials in the vast majority of old electronics is worth less than it costs to actually recycle them. While consumers rarely have to pay e-waste recycling companies to take their old electronics (costs are offset by local tax money or manufacturers fronting the bill as part of a legally mandated obligated recycling quota), companies, governments, and organizations do. Based on the results of a new study from industry watchdog Basel Action Network and MIT, industry documents obtained by Motherboard, and interviews with industry insiders, it's clear that the e-waste recycling industry is filled with sham operations profiting off of shipping toxic waste to developing nations. Here are the major findings of the study and of my interviews and reporting: Real, environmentally sustainable electronics recycling can be profitable only if recycling companies charge a fee to take on old machines; the sale of recycled materials rarely if ever covers the actual cost of recycling in the United States. Companies, governments, and other organizations have a requirement to recycle old machines; because there is little oversight or enforcement, a secondary industry of fake recyclers has popped up to undercut sustainable recyclers. These "recyclers," which advertise themselves as green and sustainable, get paid pennies per pound to take in old TVs, computers, printers, and monitors. Rather than recycle them domestically, the recycling companies sell them to junkyards in developing nations, either through middlemen or directly. These foreign junkyards hire low-wage employees to pick through the few valuable components of often toxic old machines. The toxic machines are then left in the scrapyards or dumped nearby. Using GPS trackers, industry watchdog Basel Action Network found that 40 percent of electronics recyclers it tested in the United States fall into this "scam recycling" category.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=A+Shocking+Amount+of+E-Waste+Recycling+Is+a+Complete+Sham%3A+http%3A%2F%2Fbit.ly%2F2cnbU62"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F16%2F09%2F20%2F2048217%2Fa-shocking-amount-of-e-waste-recycling-is-a-complete-sham%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/16/09/20/2048217/a-shocking-amount-of-e-waste-recycling-is-a-complete-sham?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/16/09/20/2048217/a-shocking-amount-of-e-waste-recycling-is-a-complete-sham?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=9678923&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2016-09-20T23:20:00+00:00</dc:date>
+<dc:subject>earth</dc:subject>
+<slash:department>high-accuracy</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>145</slash:comments>
+<slash:hit_parade>145,145,96,80,12,6,5</slash:hit_parade>
+</item>
+<item rdf:about="https://apple.slashdot.org/story/16/09/20/2045252/macos-sierra-is-now-available-for-download?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>macOS Sierra Is Now Available For Download</title>
+<link>https://apple.slashdot.org/story/16/09/20/2045252/macos-sierra-is-now-available-for-download?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>Dave Knott writes: Apple's latest desktop operating system, macOS Sierra, is now available for download. In addition to the Siri virtual assistant hitting the desktop for the first time, the free update includes features like a universal clipboard, revamped Messages, a storage optimization tool, and Apple Pay on the web.Engadget has also tested the new operating system and gave it a fairly positive review. It notes that Siri integration is "useful, if you already use Siri," and that iCloud and storage improvements have "practical benefits for everyone." But at the same time, the publication found that Siri "isn't always smart enough."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=macOS+Sierra+Is+Now+Available+For+Download%3A+http%3A%2F%2Fbit.ly%2F2cS8tzZ"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F16%2F09%2F20%2F2045252%2Fmacos-sierra-is-now-available-for-download%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/16/09/20/2045252/macos-sierra-is-now-available-for-download?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/16/09/20/2045252/macos-sierra-is-now-available-for-download?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=9678919&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>manishs</dc:creator>
+<dc:date>2016-09-20T22:40:00+00:00</dc:date>
+<dc:subject>mac</dc:subject>
+<slash:department>new-OS-versions</slash:department>
+<slash:section>apple</slash:section>
+<slash:comments>154</slash:comments>
+<slash:hit_parade>154,152,119,96,15,8,3</slash:hit_parade>
+</item>
+<item rdf:about="https://hardware.slashdot.org/story/16/09/20/2018245/microsoft-unveils-37-nokia-216-feature-phone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Microsoft Unveils $37 Nokia 216 Feature Phone</title>
+<link>https://hardware.slashdot.org/story/16/09/20/2018245/microsoft-unveils-37-nokia-216-feature-phone?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>Earlier this year, Microsoft announced that it had sold Nokia's remaining feature phone business to FIH Mobile, a subsidiary of Foxconn, for $350 million. Today, Microsoft unveiled the Nokia 216 feature phone, dispelling rumors that it would stop making Nokia phones. The Verge reports: The new Nokia 216 is one of the most basic phones that Microsoft manufactures, and it will be available in India next month for around $37. It includes a 2.4-inch QVGA display, with 0.3-megapixel cameras at the front and rear, running on the Series 30 OS with the Opera mini browser. It even has a headphone jack. It's easy to understand why Microsoft continues to create feature phones, as the company still sells millions of them every month. Microsoft previously hoped that feature phone users would create a Microsoft account and become part of the Microsoft ecosystem, but it's not clear whether the millions of feature phone users ever actually did that. Microsoft hinted earlier this year that it's planning to kill off its Lumia smartphones, and recent rumors have suggested that the Lumia brand will die off toward the end of the year.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Microsoft+Unveils+%2437+Nokia+216+Feature+Phone%3A+http%3A%2F%2Fbit.ly%2F2cn4Kia"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F16%2F09%2F20%2F2018245%2Fmicrosoft-unveils-37-nokia-216-feature-phone%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/16/09/20/2018245/microsoft-unveils-37-nokia-216-feature-phone?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/16/09/20/2018245/microsoft-unveils-37-nokia-216-feature-phone?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=9678861&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2016-09-20T22:00:00+00:00</dc:date>
+<dc:subject>microsoft</dc:subject>
+<slash:department>back-from-the-dead</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>43</slash:comments>
+<slash:hit_parade>43,43,30,25,5,4,4</slash:hit_parade>
+</item>
+<item rdf:about="https://news.slashdot.org/story/16/09/20/1940224/north-korea-has-just-28-websites?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>North Korea Has Just 28 Websites</title>
+<link>https://news.slashdot.org/story/16/09/20/1940224/north-korea-has-just-28-websites?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>In September of 2014, NetCraft confirmed there to be over 1 billion websites on the world wide web. There are over 140 million .com and .net domains alone, as well as millions of websites for each country code top-level domain (ccTLD), such as .de for Germany and .cn for China. But in North Korea, the number of websites the country has registered for its top-level domain is in the double digits. Motherboard reports: On Tuesday, apparently by mistake, North Korea misconfigured its nameserver, essentially a list that holds information on all of the domains that exist for .kp, allowing anyone to query it and get the list. In other words, a snafu by North Korea's system administrators allowed anyone to ask the country's nameserver: "can I have all of your information on this domain?" and get an answer, giving everyone a peek into the strange world of North Korea's web. North Korea has only 28 registered domains, according to the leaked data. "We didn't think there was much in the way of internet resources in North Korea, and according to these leaked zone files, we were right," Doug Madory, a researcher at Dyn, a company that monitors internet use and access around the world, told Motherboard. Some of the sites aren't reachable, perhaps because after Bryant discovered them, they are being deluged with traffic.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=North+Korea+Has+Just+28+Websites%3A+http%3A%2F%2Fbit.ly%2F2cRSwKa"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F16%2F09%2F20%2F1940224%2Fnorth-korea-has-just-28-websites%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/16/09/20/1940224/north-korea-has-just-28-websites?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/16/09/20/1940224/north-korea-has-just-28-websites?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=9678793&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2016-09-20T21:20:00+00:00</dc:date>
+<dc:subject>network</dc:subject>
+<slash:department>very-small</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>119</slash:comments>
+<slash:hit_parade>119,114,60,44,16,10,7</slash:hit_parade>
+</item>
+<textinput rdf:about="https://slashdot.org/search.pl">
+<title>Search Slashdot</title>
+<description>Search Slashdot stories</description>
+<name>query</name>
+<link>https://slashdot.org/search.pl</link>
+</textinput>
+</rdf:RDF>
