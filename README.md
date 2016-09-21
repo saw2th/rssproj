@@ -33,6 +33,11 @@ return to:
 http://localhost:8000/
 ```
 
+#### To run tests
+```
+python manage.py test
+```
+
 ### Other things todo
  - unflag
  - improve display
