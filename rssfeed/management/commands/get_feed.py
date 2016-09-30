@@ -23,5 +23,5 @@ class Command(BaseCommand):
                          updated=item.get('updated')
                      )
              except IntegrityError:
-                 # do nothing
-                 pass
+                 print "rssitem already present"
+                 
